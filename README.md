@@ -1,4 +1,4 @@
-# 🧠 Lunacy - Rec Room Internal Mod Menu
+# 🧠 Lunacy - Rec Room Internal Mod
 
 *A comprehensive internal modification framework for educational and research purposes*
 
@@ -92,8 +92,9 @@
 - **Accessibility Options** - High-contrast and scaling support
 
 ### Screenshots
-- LOADER NOT INCLUDED
-<img width="994" height="511" alt="image" src="https://github.com/user-attachments/assets/01d71d25-d01d-4d1a-9e18-63899262c962" />
+- **LOADER NOT INCLUDED**
+<img width="794" height="317" alt="image" src="https://github.com/user-attachments/assets/94ae4f21-faaa-4a6c-bb55-d3a5075980a4" />
+
 
 ---
 
