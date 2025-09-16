@@ -8,6 +8,9 @@
 
 **Lunacy** is an advanced internal modification system designed for Rec Room, providing extensive customization capabilities through a sophisticated hooking architecture and intuitive graphical interface. Originally developed as a premium modification tool, this project demonstrates advanced reverse engineering techniques and game modification methodologies.
 
+## NOTE:
+This is a shit Hook Only cheat ive spend maybe couple hours to made, if you skid it just be sure to credit me :p 
+im NOT going to help you dump the game, dont even ask.
 ---
 
 ## ⚡ Quick Start
