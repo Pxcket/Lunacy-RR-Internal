@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lunacy Revived", "Lunacy Revived.vcxproj", "{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Private|x64 = Private|x64
+		Private|x86 = Private|x86
+		Public|x64 = Public|x64
+		Public|x86 = Public|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Private|x64.ActiveCfg = Private|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Private|x64.Build.0 = Private|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Private|x86.ActiveCfg = Private|Win32
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Private|x86.Build.0 = Private|Win32
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Public|x64.ActiveCfg = Public|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Public|x64.Build.0 = Public|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Public|x86.ActiveCfg = Public|Win32
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Public|x86.Build.0 = Public|Win32
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Release|x64.ActiveCfg = Release|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Release|x64.Build.0 = Release|x64
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Release|x86.ActiveCfg = Release|Win32
+		{9717A3DE-F7F4-42F3-A12E-D6AA61BD3CD1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E901CA2-72D0-461C-ACAE-1F728A3E578D}
+	EndGlobalSection
+EndGlobal
