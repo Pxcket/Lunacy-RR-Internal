@@ -160,6 +160,13 @@
 
 ---
 
+---
+
+## 📜 License
+
+MIT - Use it however you want. Sell it. Modify it. Break games with it. Just don’t sue me if you crash your PC :)
+
+---
 *Last Updated: August 2025*  
 *Original Domain: Lunacy.vip*  
 *Status: Self Leak*
