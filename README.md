@@ -154,9 +154,8 @@
 ## 🌟 Acknowledgments
 
 - **Original Developers** - For demonstrating advanced modification techniques
-- **Research Community** - Contributions to game security understanding
-- **Academic Institutions** - Supporting reverse engineering education
-- **Security Researchers** - Ongoing analysis of game protection systems
+- Pxcket ( Founder / Dev )
+- Byte ( Dev )
 
 ---
 
