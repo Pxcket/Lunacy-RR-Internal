@@ -1,4 +1,4 @@
-#pragma once // Include guard
+#pragma once
 #include <cstdint>
 
 namespace offsets
