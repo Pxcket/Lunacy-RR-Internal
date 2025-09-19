@@ -48,9 +48,9 @@ void Referee::Bypass() {
 	MH_Initialize();
 
 
-	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref1), &retHook, (void**)&retHook_H);
-	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref2), &retHook, (void**)&retHook_H); //"shit gets patched on monday" head ass been 2 weeks already
-	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref3), &retHook, (void**)&retHook_H);
+	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref1), &retHook_H, (void**)&old_retHook);
+	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref2), &retHook_H, (void**)&old_retHook); //"shit gets patched on monday" head ass been 2 weeks already
+	Ihooks::create((void**)((uint64_t)GetModuleHandleA("Referee.dll") + Referee::NOPS::ref3), &retHook_H, (void**)&old_retHook);
 
 	Ihooks::create((void**)((uintptr_t)GetModuleHandleA("GameAssembly.dll") + offsets::obfuscated::IsValid), &IsValid_H, (void**)&IsValid_O);
 	Ihooks::create((void**)((uintptr_t)GetModuleHandleA("GameAssembly.dll") + offsets::SessionManager::FatalApplicationQuit), &FatalApplicationQuit_H, (void**)&FatalApplicationQuit_O);
